@@ -1,0 +1,126 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="アイドル相性ランキング ヘルプ">
+		<param name="Local" value="IdicChasen.htm">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="概要">
+			<param name="Local" value="IdicChasen.htm#概要">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="動作環境">
+			<param name="Local" value="IdicChasen.htm#動作環境">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="インストール方法">
+			<param name="Local" value="IdicChasen.htm#インストール方法">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="アンインストール方法">
+			<param name="Local" value="IdicChasen.htm#アンインストール方法">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="アップグレード方法">
+			<param name="Local" value="IdicChasen.htm#アップグレード方法">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="「チャート占星術」の準備">
+			<param name="Local" value="IdicChasen.htm#「チャート占星術」の準備">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="「I-dic（アイドル人名辞書）」の準備">
+			<param name="Local" value="IdicChasen.htm#「I-dic（アイドル人名辞書）」の準備">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="起動方法">
+			<param name="Local" value="IdicChasen.htm#起動方法">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="「チャート占星術」の実行ファイルchasen.exeのファイルパスの設定">
+			<param name="Local" value="IdicChasen.htm#「チャート占星術」の実行ファイルchasen.exeのファイルパスの設定">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="「I-dic（アイドル人名辞書）」の辞書ファイルi-dicのファイルパスの設定">
+			<param name="Local" value="IdicChasen.htm#「I-dic（アイドル人名辞書）」の辞書ファイルi-dicのファイルパスの設定">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="姓名、性別、生年月日、出生時、出生地、世界時との時差、の入力">
+			<param name="Local" value="IdicChasen.htm#姓名、性別、生年月日、出生時、出生地、世界時との時差、の入力">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="実行">
+			<param name="Local" value="IdicChasen.htm#実行">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="ソート">
+			<param name="Local" value="IdicChasen.htm#ソート">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="実行結果の表中のアイドルの運勢の表示">
+			<param name="Local" value="IdicChasen.htm#実行結果の表中のアイドルの運勢の表示">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Yahoo!の「芸能、タレント」に登録されているアイドルのみの表示">
+			<param name="Local" value="IdicChasen.htm#Yahoo!の「芸能、タレント」に登録されているアイドルのみの表示">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="異性のみの表示">
+			<param name="Local" value="IdicChasen.htm#異性のみの表示">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="表示するアイドルの年齢の上限、下限指定">
+			<param name="Local" value="IdicChasen.htm#表示するアイドルの年齢の上限、下限指定">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="表示するアイドルの血液型指定">
+			<param name="Local" value="IdicChasen.htm#表示するアイドルの血液型指定">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="検索">
+			<param name="Local" value="IdicChasen.htm#検索">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="CSV、INIファイル書き出し">
+			<param name="Local" value="IdicChasen.htm#CSV、INIファイル書き出し">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="CSV、INIファイル読み込み">
+			<param name="Local" value="IdicChasen.htm#CSV、INIファイル読み込み">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="日運">
+			<param name="Local" value="IdicChasen.htm#日運">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="トラブルシューティング">
+			<param name="Local" value="IdicChasen.htm#トラブルシューティング">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="最新版の入手先ホームページ">
+			<param name="Local" value="IdicChasen.htm#最新版の入手先ホームページ">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="フリーソフト">
+			<param name="Local" value="IdicChasen.htm#フリーソフト">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="サポート＆機能追加のリクエスト">
+			<param name="Local" value="IdicChasen.htm#サポート＆機能追加のリクエスト">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="バージョン履歴">
+			<param name="Local" value="IdicChasen.htm#バージョン履歴">
+			</OBJECT>
+	</UL>
+</UL>
+</BODY></HTML>
